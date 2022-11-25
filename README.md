@@ -3,3 +3,6 @@
 
 <h3>SUPPORT BRAWIJAYA SSO Auth</h3>
 
+- Just Extract These Files
+- Open ./<app_name> in terminal
+
